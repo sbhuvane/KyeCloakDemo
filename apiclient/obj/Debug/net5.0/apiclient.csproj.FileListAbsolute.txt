@@ -1,0 +1,15 @@
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/obj/Debug/net5.0/apiclient.csprojAssemblyReference.cache
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/obj/Debug/net5.0/apiclient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/obj/Debug/net5.0/apiclient.AssemblyInfoInputs.cache
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/obj/Debug/net5.0/apiclient.AssemblyInfo.cs
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/obj/Debug/net5.0/apiclient.csproj.CoreCompileInputs.cache
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/bin/Debug/net5.0/apiclient.deps.json
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/bin/Debug/net5.0/apiclient.runtimeconfig.json
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/bin/Debug/net5.0/apiclient.runtimeconfig.dev.json
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/bin/Debug/net5.0/apiclient.dll
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/bin/Debug/net5.0/ref/apiclient.dll
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/bin/Debug/net5.0/apiclient.pdb
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/obj/Debug/net5.0/apiclient.dll
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/obj/Debug/net5.0/ref/apiclient.dll
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/obj/Debug/net5.0/apiclient.pdb
+/Users/bhuvan/Documents/Docker/dotnet/apiclient/obj/Debug/net5.0/apiclient.genruntimeconfig.cache
